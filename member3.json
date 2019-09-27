@@ -1,0 +1,19 @@
+{
+    "CN": "etcd3",
+    "hosts": [
+        "172.17.0.4",
+        "etcd3"
+    ],
+    "key": {
+        "algo": "ecdsa",
+        "size": 256
+    },
+    "names": [
+        {
+            "C": "US",
+            "L": "CA",
+            "ST": "San Francisco"
+        }
+    ]
+}
+
